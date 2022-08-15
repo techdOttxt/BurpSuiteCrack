@@ -16,8 +16,12 @@ command : java -noverify -javaagent:burploader.jar -jar burpsuite_pro_v2022.6.1.
 
 Links 
 -tech.txt :
-https://drive.google.com/file/d/11cjNTOdV71UrtKNVN5vpHSLtPvFlv9gn/view?usp=sharing <br>
--java link :https://download.oracle.com/java/18/latest/jdk-18_macos-aarch64_bin.dmg
--two files link <br>
-1)https://portswigger.net/burp/releases/professional-community-2022-8-1?requestededition=professional&requestedplatform=. <br>
-2)https://drive.google.com/file/d/1C0MnDgTEBkt0iHGTesc0IX_x5ydmHQk2/view?usp=sharing <br>
+https://drive.google.com/file/d/11cjNTOdV71UrtKNVN5vpHSLtPvFlv9gn/view?usp=sharing 
+
+<br><br>
+
+-java link <br><br> :https://download.oracle.com/java/18/latest/jdk-18_macos-aarch64_bin.dmg
+-two files link 
+<br><br>
+1)https://portswigger.net/burp/releases/professional-community-2022-8-1?requestededition=professional&requestedplatform=.  <br><br>
+2)https://drive.google.com/file/d/1C0MnDgTEBkt0iHGTesc0IX_x5ydmHQk2/view?usp=sharing
