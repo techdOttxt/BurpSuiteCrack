@@ -17,10 +17,8 @@ command : java -noverify -javaagent:burploader.jar -jar burpsuite_pro_v2022.6.1.
 Links 
 -tech.txt :
 https://drive.google.com/file/d/11cjNTOdV71UrtKNVN5vpHSLtPvFlv9gn/view?usp=sharing 
-
 <br>
-
--java link <br><br> :https://download.oracle.com/java/18/latest/jdk-18_macos-aarch64_bin.dmg <br>
+-java link <br> :https://download.oracle.com/java/18/latest/jdk-18_macos-aarch64_bin.dmg <br>
 -two files link 
 <br>
 1)https://portswigger.net/burp/releases/professional-community-2022-8-1?requestededition=professional&requestedplatform=.  <br>
